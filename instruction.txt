@@ -1,0 +1,7 @@
+step 1.) extract the main file 
+step 2.) go nodemcu flasher / win 64/release /launch the main file
+step 3.) plug your nodemcu/esp 8266
+step 4.) make sure you have the drivers for the nodemcustep 
+step 5.) in main application select the port
+step 6.) add the .bin file in the config section
+step 7.) flash
